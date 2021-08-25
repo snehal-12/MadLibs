@@ -1,0 +1,7 @@
+C:\Users\vijay\desktop\Madlibs\Madlibs\bin\Debug\Madlibs.exe.config
+C:\Users\vijay\desktop\Madlibs\Madlibs\bin\Debug\Madlibs.exe
+C:\Users\vijay\desktop\Madlibs\Madlibs\bin\Debug\Madlibs.pdb
+C:\Users\vijay\desktop\Madlibs\Madlibs\obj\Debug\Madlibs.csprojAssemblyReference.cache
+C:\Users\vijay\desktop\Madlibs\Madlibs\obj\Debug\Madlibs.csproj.CoreCompileInputs.cache
+C:\Users\vijay\desktop\Madlibs\Madlibs\obj\Debug\Madlibs.exe
+C:\Users\vijay\desktop\Madlibs\Madlibs\obj\Debug\Madlibs.pdb
